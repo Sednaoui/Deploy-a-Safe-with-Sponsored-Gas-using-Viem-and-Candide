@@ -1,9 +1,9 @@
 # Setup a Safe Account and Sponsor its Gas
 ## Viem, permissionless.js and Candide 
 
-This is example showcase how to deploy a Safe account while sponsoring its transactions gas fees using a private gas policy with Candide Paymaster. This example uses Viem and permissionless.js.
+## Examples
 
-## Getting Started
+These examples showcase how using Candide Bundler and Paymaster API using [Viem AA](https://viem.sh/account-abstraction) and [permissionless.js](https://docs.pimlico.io/permissionless) supported smart accounts.
 
 ### Setup your .env
 
